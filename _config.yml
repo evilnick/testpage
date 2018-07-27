@@ -1,4 +1,4 @@
-repository: tomjoht/documentation-theme-jekyll
+repository: juju-solutions/kuberenetes-docs
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,7 +12,7 @@ site_title: Canonical Distribution of Kubernetes
 company_name: Canonical
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: juju-solutions/kuberenetes-docs
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
