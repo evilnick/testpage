@@ -7,9 +7,9 @@ permalink: main.html
 folder: k8s
 ---
 
-# Introducing the Canonical Distribution of Kubernetes&reg;
+# Introducing the Canonical Distribution of Kubernetes<sup>&reg;</sup>
 
-The Canonical Distribution of Kubernetes&reg; (**CDK**),
+The Canonical Distribution of Kubernetes<sup>&reg;</sup> (**CDK**),
 
 
 <div class="row">
