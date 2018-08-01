@@ -6,6 +6,12 @@ toc: false
 permalink: main.html
 folder: k8s
 ---
+
+# Introducing the Canonical Distribution of Kubernetes&reg;
+
+The Canonical Distribution of Kubernetes&reg; (**CDK**),
+
+
 <div class="row">
         <div class="col-lg-12">
             <h2 class="page-header">Services Panels</h2>
